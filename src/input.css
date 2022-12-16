@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+
+* {
+	font-family: "Red Hat Display", sans-serif;
+}
+
+@layer base {
+	:root {
+		/*	Primary	*/
+		--pale-blue: 225deg 100% 94%;
+		--bright-blue: 245deg 75% 52%;
+		/*	Netral	*/
+		--very-pale-blue: 225deg 100% 98%;
+		--desaturated-blue: 224deg 23% 55%;
+		--dark-blue: 223deg 47% 23%;
+	}
+}
+
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
