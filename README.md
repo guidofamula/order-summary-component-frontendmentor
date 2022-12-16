@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://www.frontendmentor.io/solutions/nft-preview-card-component-M1H--Ucy1a" target='_blank' color="white">
+    <a href="https://www.frontendmentor.io/solutions/order-summary-component-oThH3-g4cJ" target='_blank' color="white">
       Solution URL
     </a>
   <span> ~||~ </span>    <a target='_blank' href="https://guidofamula.github.io/order-summary-component-frontendmentor/">
